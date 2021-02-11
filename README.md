@@ -4,7 +4,7 @@ My name is Rodrigo, I am originally graduated as a physiotherapist at the Federa
 
 About me:
 
-- 🔭 Currently working as a Physio on MGS S.A.
+- 🔭 Currently working as a Physio at MGS S.A.
 - 🌱 Data Science and Machine Learning enthusiast
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rodrigo-lopes-0aa31685/)
 - ⚡ Fun fact: I was a parkour athlete! 
