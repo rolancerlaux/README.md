@@ -10,4 +10,4 @@ About me:
 - ⚡ Fun fact: I was a parkour athlete! 
 
 
-[Visitor Count](https://profile-counter.glitch.me/{rolancerlaux}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{rolancerlaux}/count.svg)
