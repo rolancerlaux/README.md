@@ -9,4 +9,5 @@ About me:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rodrigo-lopes-0aa31685/)
 - ⚡ Fun fact: I was a parkour athlete! 
 
+Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/{rolancerlaux}/count.svg)
