@@ -10,7 +10,7 @@ In this profile you guys will find all the projects I am working on. I hope you 
 
 - 📚 Data Science and Machine Learning enthusiast
 
-- 🔭 Always improving
+- 🔭 Always looking to improve
 
 - ⚡ Fun fact: I was a parkour athlete!
 
