@@ -2,7 +2,7 @@
 
 My name is Rodrigo, I am originally graduated as a physiotherapist at the Federal University of Minas Gerais.
 
-In this profile you guys will find all the projects I am working on! I hope you guys enjoy it!
+In this profile you guys will find all the projects I am working on. I hope you guys enjoy it!
 
 ### About me:
 
