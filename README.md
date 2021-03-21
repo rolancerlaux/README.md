@@ -1,14 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Rodrigo, I am originally graduated as a physiotherapist at the Federal University of Minas Gerais.
 
-About me:
+### About me:
 
 - 🔭 Currently working as a Physio at MGS S.A.
 
 - 🌱 Data Science and Machine Learning enthusiast
 
- 📊 Skills: 
+## 📊 Skills: 
  <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
  
  <img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -21,5 +21,5 @@ About me:
  
  <img align="left" alt="TensorFlow" width="26px" src="https://img.icons8.com/color/2x/tensorflow.png" />
 
-📫 How to reach me: 
+ ### 📫 How to reach me: 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/rodrigo-lopes-0aa31685/)
