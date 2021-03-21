@@ -2,6 +2,8 @@
 
 My name is Rodrigo, I am originally graduated as a physiotherapist at the Federal University of Minas Gerais.
 
+In this profile you will find all the projects I am working on! I hope you guys enjoy it!
+
 ### About me:
 
 - 💻 Currently working as a Physio at MGS S.A.
@@ -10,7 +12,7 @@ My name is Rodrigo, I am originally graduated as a physiotherapist at the Federa
 
 - 🔭 Always improving
 
-- ⚡ Fun fact: I was a parkour athlete
+- ⚡ Fun fact: I was a parkour athlete!
 
 ### 📊 Skills: 
  <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
