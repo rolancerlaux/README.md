@@ -6,14 +6,14 @@ My name is Rodrigo, I am originally graduated as a physiotherapist at the Federa
 
 Here in this profile you guys will find all the projects I am working on. I hope you guys enjoy it!
 
-### About me:
+#### About me:
 
 - 💻 Currently working as a Physio at MGS S.A.
 - 📚 Data Science and Machine Learning enthusiast
 - 🔭 Always looking to improve
 - ⚡ Fun fact: I was a parkour athlete!
 
-### Skills set: 
+#### Skills set: 
  <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
  
  <img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -28,7 +28,7 @@ Here in this profile you guys will find all the projects I am working on. I hope
  
  <br />
 
- ### 📫 How to reach me: 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/rodrigo-lopes-0aa31685/)
+ #### 📫 How to reach me: 
+ [LinkedIn](https://www.linkedin.com/in/rodrigo-lopes-0aa31685/)
 
 <br />
