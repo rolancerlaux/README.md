@@ -6,12 +6,16 @@ My name is Rodrigo, I am originally graduated as a physiotherapist at the Federa
 
 Here in this profile you guys will find all the projects I am working on. I hope you guys enjoy it!
 
+---
+
 #### About me:
 
-- 💻 Currently working as a Physio at MGS S.A.
+- 💻 Currently working as a Physio @ MGS S.A.
 - 📚 Data Science and Machine Learning enthusiast
 - 🔭 Always looking to improve
 - ⚡ Fun fact: I was a parkour athlete!
+
+---
 
 #### Skills set: 
  <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
@@ -28,13 +32,16 @@ Here in this profile you guys will find all the projects I am working on. I hope
  
  <br />
  
+ ---
  
  #### Showcase projects:
- - Project 1: [An analysis of the Absenteeism at work](https://github.com/rolancerlaux/Data-Science-Projects/tree/main/Absenteeism_at_work)
- - Project 2: [An implementation of a Neural Network for Retain Customers](https://github.com/rolancerlaux/Data-Science-Projects/tree/main/Telco_Neural_Networks)
- - Project 3: [Clinical Measure for Rearfoot-Shank Joint Complex](https://posture-index-app.herokuapp.com)
+ - Project 1: [An Analysis of the Absenteeism at Work](https://github.com/rolancerlaux/Data-Science-Projects/tree/main/Absenteeism_at_work)
+ - Project 2: [A Neural Network Model for Retain Customers](https://github.com/rolancerlaux/Data-Science-Projects/tree/main/Telco_Neural_Networks)
+ - Project 3: [A Clinical Measure App for Rearfoot Shank Joint Complex](https://posture-index-app.herokuapp.com)
+
+---
 
  #### 📫 How to reach me: 
- [LinkedIn](https://www.linkedin.com/in/rodrigo-lopes-0aa31685/)
+ [LinkedIn](https://www.linkedin.com/in/rolancerlaux/)
 
 <br />
