@@ -27,6 +27,12 @@ Here in this profile you guys will find all the projects I am working on. I hope
  <img align="left" alt="TensorFlow" width="26px" src="https://img.icons8.com/color/2x/tensorflow.png" />
  
  <br />
+ 
+ 
+ #### Showcase projects:
+ - Project 1: [An analysis of the Absenteeism at work](https://github.com/rolancerlaux/Data-Science-Projects/tree/main/Absenteeism_at_work)
+ - Project 2: [An implementation of a Neural Network for Retain Customers](https://github.com/rolancerlaux/Data-Science-Projects/tree/main/Telco_Neural_Networks)
+ - Project 3: [Clinical Measure for Rearfoot-Shank Joint Complex](https://posture-index-app.herokuapp.com)
 
  #### 📫 How to reach me: 
  [LinkedIn](https://www.linkedin.com/in/rodrigo-lopes-0aa31685/)
