@@ -37,7 +37,7 @@ Here in this profile you guys will find all the projects I am working on. I hope
  #### Showcase projects:
  - Project 1: [An Analysis of the Absenteeism at Work](https://github.com/rolancerlaux/Data-Science-Projects/tree/main/Absenteeism_at_work)
  - Project 2: [A Neural Network Model for Retain Customers](https://github.com/rolancerlaux/Data-Science-Projects/tree/main/Telco_Neural_Networks)
- - Project 3: [A Clinical Measure App for Rearfoot Shank Joint Complex](https://posture-index-app.herokuapp.com)
+ - Project 3: [A Clinical Measure App](https://posture-index-app.herokuapp.com)
 
 ---
 
