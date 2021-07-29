@@ -32,8 +32,8 @@ Here in this profile you guys will find all the projects I am working on. I hope
  
  ---
  #### Showcase projects:
- - Project 1: [An Analysis of the Absenteeism at Work](https://github.com/rolancerlaux/Data-Science-Projects/tree/main/Absenteeism_at_work)
- - Project 2: [A Neural Network Model for Retain Customers](https://github.com/rolancerlaux/Data-Science-Projects/tree/main/Telco_Neural_Networks)
+ - Project 1: [An Analysis of the Absenteeism at Work](https://github.com/rolancerlaux/Data-Science-Projects/blob/main/Absenteeism_at_work/Absenteeism_at_work_without_reason.ipynb)
+ - Project 2: [A Neural Network Model for Retain Customers](https://github.com/rolancerlaux/Data-Science-Projects/blob/main/Telco_Neural_Networks/Telco_Classification_v2.ipynb)
  - Project 3: [A Clinical Measure App](https://posture-index-app.herokuapp.com)
 
 ---
