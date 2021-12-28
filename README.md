@@ -4,8 +4,6 @@
 
 My name is Rodrigo, I am graduated as a physiotherapist at the Federal University of Minas Gerais.
 
-I am currently studying the Masters in Computer Science at the same University.
-
 Here in this profile you guys will find all the projects I am working on. I hope you guys enjoy it!
 
 ---
