@@ -17,6 +17,13 @@ Here in this profile you guys will find all the projects I am working on. I hope
 - ⚡ Fun fact: I was a parkour athlete!
 
 ---
+ #### Showcase projects:
+ - Project 1: [An Analysis of the Absenteeism at Work](https://github.com/rolancerlaux/Data-Science-Projects/blob/main/Absenteeism_at_work/Absenteeism_at_work_without_reason.ipynb)
+ - Project 2: [A Neural Network Model for Retain Customers](https://github.com/rolancerlaux/Data-Science-Projects/blob/main/Telco_Neural_Networks/Telco_Classification_v2.ipynb)
+ - Project 3: [A Clinical Measure App](https://posture-index-app.herokuapp.com)
+
+ ---
+ 
 #### Skills set: 
  <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
  
@@ -32,13 +39,8 @@ Here in this profile you guys will find all the projects I am working on. I hope
  
  <br />
  
- ---
- #### Showcase projects:
- - Project 1: [An Analysis of the Absenteeism at Work](https://github.com/rolancerlaux/Data-Science-Projects/blob/main/Absenteeism_at_work/Absenteeism_at_work_without_reason.ipynb)
- - Project 2: [A Neural Network Model for Retain Customers](https://github.com/rolancerlaux/Data-Science-Projects/blob/main/Telco_Neural_Networks/Telco_Classification_v2.ipynb)
- - Project 3: [A Clinical Measure App](https://posture-index-app.herokuapp.com)
-
 ---
+
  #### 📫 How to reach me: 
  [LinkedIn](https://www.linkedin.com/in/rolancerlaux/)
 
