@@ -11,7 +11,6 @@ Here in this profile you guys will find all the projects I am working on. I hope
 ---
 #### About me:
 
-- 💻 Currently working as a Physio @ MGS S.A.
 - 📚 Data Science and Machine Learning enthusiast
 - 🔭 Always looking to improve
 - ⚡ Fun fact: I was a parkour athlete!
